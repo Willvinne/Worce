@@ -1,0 +1,12 @@
+unrar
+colorama
+rarfile
+comtypes
+pywifi
+colored
+validate_email
+keyboard
+paramiko
+pyautogui
+pillow
+win10toast
