@@ -9,6 +9,8 @@ RAR File Brute Force – Performs brute force attacks on encrypted RAR files.
 
 Wi-Fi Brute Force – Allows brute force testing on wireless networks.
 
+Custom Scripts - With Worce Tools, you can combine your custom scripts and use them in a single tool.
+
 Upcoming Features – Future modules planned for development.
 
 # Requirements
